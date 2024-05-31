@@ -1,0 +1,40 @@
+'Effective Date': February 27, 2024
+
+'Introduction': This document outlines our commitment to protecting your privacy, detailing how we handle your personal information when you utilize our services. Your rights regarding privacy and data protection laws are also highlighted.
+
+'Consent': By accessing and using our service, you consent to the collection, use, and sharing of your information as described in this policy.
+
+'Interpretation and Definitions':
+- Capitalized Terms: Words with the first letter capitalized have specific meanings, defined within this section.
+- Singular/Plural: Definitions apply regardless of singular or plural use.
+
+'Defined Terms':
+- Account: A unique account created for you to access our service or parts of it.
+- Application: Refers to RiskStock, our software program.
+- Company: RiskStock, also referred to as "we," "us," or "our."
+- Country: South Korea
+- Device: Any device capable of accessing the service, such as a computer or mobile phone.
+- Personal Data: Information related to an identified or identifiable individual.
+- Service: The application provided by the company.
+- Service Provider: Any natural or legal person who processes data on behalf of the company.
+- Usage Data: Data collected automatically through service use or service infrastructure (e.g., page visit duration).
+
+'Collection and Use of Personal Data':
+- Types of Data Collected:
+  - Personal Data: This may include your email address and other information needed to contact or identify you.
+  - Usage Data: Automatically collected data about how the service is accessed and used.
+- Use of Personal Data: We use your personal data to provide, maintain, and improve our service, manage your account, fulfill contracts, communicate with you, provide updates, manage requests, facilitate business transfers, and for other purposes such as data analysis and service improvement.
+
+'Sharing Your Personal Data': We may share your information with service providers, affiliates, business partners, other users, and with your consent. In business transactions, your personal data may be part of the transferred assets.
+
+'Data Retention and Transfer': Your personal data is kept only as long as necessary for the purposes stated in this policy. It may be processed and stored in locations outside of your jurisdiction, where data protection laws may differ. We ensure the secure transfer and handling of your data.
+
+'Your Rights': You have rights to access, update, delete, or request deletion of your personal data. Specific conditions apply for data retention, especially regarding legal obligations.
+
+'Security and Children's Privacy': We strive to protect your personal data but cannot guarantee absolute security. Our service does not target children under 13, and we do not knowingly collect data from them without parental consent.
+
+'External Links': Our service may contain links to external sites. We advise reviewing their privacy policies as we do not control these third-party sites.
+
+'Policy Updates': This policy may be updated periodically. We will notify you of any significant changes and update the "Effective Date" accordingly.
+
+'Contact Us': For questions about this privacy policy, please contact us via email at riskstock.co@gmail.com.
